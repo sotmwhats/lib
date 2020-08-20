@@ -1,0 +1,1 @@
+存放wordpress静态文件
